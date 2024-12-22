@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/annie-are-you-okay/static/css/main.b67e41d1.css",
-    "main.js": "/annie-are-you-okay/static/js/main.c78c760c.js",
+    "main.js": "/annie-are-you-okay/static/js/main.dbeb9b45.js",
     "static/media/logo.png": "/annie-are-you-okay/static/media/logo.1017e029ab98447f7118.png",
     "index.html": "/annie-are-you-okay/index.html",
     "main.b67e41d1.css.map": "/annie-are-you-okay/static/css/main.b67e41d1.css.map",
-    "main.c78c760c.js.map": "/annie-are-you-okay/static/js/main.c78c760c.js.map"
+    "main.dbeb9b45.js.map": "/annie-are-you-okay/static/js/main.dbeb9b45.js.map"
   },
   "entrypoints": [
     "static/css/main.b67e41d1.css",
-    "static/js/main.c78c760c.js"
+    "static/js/main.dbeb9b45.js"
   ]
 }
