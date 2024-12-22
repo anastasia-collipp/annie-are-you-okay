@@ -13,7 +13,7 @@ function App() {
       <header >
         <img src={logo} className="App-logo" alt="logo" />    
         <h1 className="text-3xl font-bold underline">
-          Hello world!
+          Hello!
         </h1>
         </header>
 
